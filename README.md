@@ -4,6 +4,8 @@
 ![Network](https://img.shields.io/badge/network-Sepolia-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+🔗 **GitHub Repository**: [https://github.com/yerradinesh06/synox](https://github.com/yerradinesh06/synox)
+
 **SYNOX09** is a premium decentralized governance and communication protocol. It combines **cryptographically-secure video conferencing** with **on-chain reputation management**. Built on Ethereum, it provides a tamper-proof record of meetings, decentralized storage for recordings, and a DAO-ready reputation system powered by Attendance NFTs.
 
 ---
@@ -47,8 +49,8 @@
 
 ### 1. Clone & Install
 ```bash
-git clone <repository-url>
-cd SYNOX
+git clone https://github.com/yerradinesh06/synox.git
+cd synox
 npm install
 ```
 
